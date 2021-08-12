@@ -2,7 +2,8 @@
 expressJs CRUD API with mySql
 
 npm init,
-install express,
-install sequelize,
-install mysql,
-install cors.
+npm install nodemon,
+npm install express,
+npm install sequelize,
+npm install mysql,
+npm install cors.
